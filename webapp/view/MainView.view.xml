@@ -8,26 +8,20 @@
         <sap.ui.layout.form:FormElement label="Name" id="element0">
         <sap.ui.layout.form:fields>
         <Input width="100%" id="name_field" maxLength="35"/>
-
         </sap.ui.layout.form:fields>
         </sap.ui.layout.form:FormElement>
-
         <sap.ui.layout.form:FormElement label="Street/No" id="element0_1747731045483">
         <sap.ui.layout.form:fields>
         <Input width="100%" id="streetno1" maxLength="35"/>
         <Input width="100%" id="streetno2" maxLength="5"/>
-
         </sap.ui.layout.form:fields>
         </sap.ui.layout.form:FormElement>
-
         <sap.ui.layout.form:FormElement label="Zip Code/City" id="element1">
         <sap.ui.layout.form:fields>
         <Input width="100%" id="zipcocit1" maxLength="5"/>
         <Input width="100%" id="zipcocit2" maxLength="35"/>
-
         </sap.ui.layout.form:fields>
         </sap.ui.layout.form:FormElement>
-
         <sap.ui.layout.form:FormElement label="Country" id="element0_1747732943979">
         <sap.ui.layout.form:fields>
         <ComboBox xmlns="sap.m" id="countryfield" maxWidth="7100%">
@@ -41,7 +35,6 @@
         </sap.ui.layout.form:fields>
         </sap.ui.layout.form:FormElement>
         </sap.ui.layout.form:formElements>
-
         </sap.ui.layout.form:FormContainer>
         </sap.ui.layout.form:formContainers>
     <sap.ui.layout.form:layout>
